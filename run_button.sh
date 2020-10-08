@@ -1,2 +1,2 @@
-javac Question4.java
-java Question4
+javac Question5.java
+java Question5
